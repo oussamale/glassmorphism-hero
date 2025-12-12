@@ -11,13 +11,9 @@ A modern and minimal **animated hero section** with glassmorphism and floating b
 
 ## Demo
 
-**Sample 1**:
-
-![Sample 1](assets/images/sample1.gif)  
-
-**Sample 2 (Glassmorphism Card)**:
-
-![Sample 2](assets/images/sample2.gif)  
+| Sample 1 | Sample 2 |
+|---------|----------|
+| ![Sample 1](assets/images/sample1.gif) | ![Sample 2](assets/images/sample2.gif) |
 
 
 ## Live Demo
@@ -94,3 +90,4 @@ glassmorphism-hero/
 This project is open source and available under the [MIT License](LICENSE).
 
 ---
+
